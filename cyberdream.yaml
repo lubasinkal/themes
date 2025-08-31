@@ -1,0 +1,25 @@
+name: Cyberdream
+accent: '#5ea1ff'
+cursor: '#5ef1ff'
+background: '#000000'
+foreground: '#ffffff'
+details: darker
+terminal_colors:
+  bright:
+    black:   '#3c4048'
+    blue:    '#5ea1ff'
+    cyan:    '#5ef1ff'
+    green:   '#5eff6c'
+    magenta: '#ff5ef1'
+    red:     '#ff6e5e'
+    white:   '#ffffff'
+    yellow:  '#f1ff5e'
+  normal:
+    black:   '#16181a'
+    blue:    '#5ea1ff'
+    cyan:    '#5ef1ff'
+    green:   '#5eff6c'
+    magenta: '#bd5eff'
+    red:     '#ff6e5e'
+    white:   '#7b8496'
+    yellow:  '#ffbd5e'
