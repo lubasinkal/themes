@@ -1,0 +1,27 @@
+# Mjolnir Warp Theme
+# Author: SilentGlasses
+name: Mjolnir Warp
+details: "darker"
+accent: "#efb82a"
+background: "#2c2e2a"
+foreground: "#cdcfcc"
+
+terminal_colors:
+  bright:
+    black: "#0d090d"
+    red: "#843d3e"
+    green: "#84926a"
+    yellow: "#efb82a"
+    blue: "#6e92c8"
+    magenta: "#776ba7"
+    cyan: "#97dfe1"
+    white: "#cdcfcc"
+  normal:
+    black: "#0d090d"
+    red: "#843d3e"
+    green: "#84926a"
+    yellow: "#efb82a"
+    blue: "#6e92c8"
+    magenta: "#776ba7"
+    cyan: "#97dfe1"
+    white: "#cdcfcc"
